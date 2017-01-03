@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="88638535-308f-4552-9e74-e7e30847abd8" name="Default" comment="" />
+    <list default="true" id="88638535-308f-4552-9e74-e7e30847abd8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/deployment.xml" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/picadito.iml" afterPath="$PROJECT_DIR$/.idea/picadito.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/backend.php" afterPath="$PROJECT_DIR$/backend.php" />
+    </list>
     <ignored path="picadito.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path=".idea/dataSources.local.xml" />
@@ -24,21 +30,23 @@
       <file leaf-file-name="backend.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/backend.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="674">
-              <caret line="60" column="4" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+            <state relative-caret-position="170">
+              <caret line="36" column="152" selection-start-line="36" selection-start-column="152" selection-end-line="36" selection-end-column="152" />
               <folding>
-                <marker date="1482781256715" expanded="true" signature="462:507" ph="SELECT * FRO... usuarios_jugadores" />
-                <marker date="1482781256715" expanded="true" signature="462:517" ph="SELECT * FRO... usuarios_jugadores" />
-                <marker date="1482781256715" expanded="true" signature="462:521" ph="SELECT * FRO... usuarios_jugadores" />
-                <marker date="1482781256715" expanded="true" signature="462:527" ph="SELECT * FRO... usuarios_jugadores" />
-                <marker date="1482781256715" expanded="true" signature="462:528" ph="SELECT * FRO... usuarios_jugadores" />
-                <marker date="1482781256715" expanded="true" signature="462:538" ph="SELECT * FRO... usuarios_jugadores" />
-                <marker date="1482781256715" expanded="true" signature="462:540" ph="SELECT * FRO... usuarios_jugadores" />
-                <marker date="1482781256715" expanded="true" signature="787:832" ph="SELECT * FRO... usuarios_jugadores" />
-                <marker date="1482781256715" expanded="true" signature="787:853" ph="SELECT * FRO... usuarios_jugadores" />
-                <marker date="1482781256715" expanded="true" signature="787:863" ph="SELECT * FRO... usuarios_jugadores" />
-                <marker date="1482781256715" expanded="true" signature="1065:1336" ph="SELECT equip... equipos" />
-                <marker date="1482781256715" expanded="true" signature="1065:1363" ph="SELECT * FRO... usuarios_jugadores" />
+                <marker date="1483123568976" expanded="true" signature="637:746" ph="SELECT * FRO... usuarios_jugadores" />
+                <marker date="1483123568976" expanded="true" signature="637:756" ph="SELECT * FRO... usuarios_jugadores" />
+                <marker date="1483123568976" expanded="true" signature="1000:1045" ph="SELECT * FRO... usuarios_jugadores" />
+                <marker date="1483123568976" expanded="true" signature="1000:1055" ph="SELECT * FRO... usuarios_jugadores" />
+                <marker date="1483123568976" expanded="true" signature="1000:1059" ph="SELECT * FRO... usuarios_jugadores" />
+                <marker date="1483123568976" expanded="true" signature="1000:1065" ph="SELECT * FRO... usuarios_jugadores" />
+                <marker date="1483123568976" expanded="true" signature="1000:1066" ph="SELECT * FRO... usuarios_jugadores" />
+                <marker date="1483123568976" expanded="true" signature="1000:1076" ph="SELECT * FRO... usuarios_jugadores" />
+                <marker date="1483123568976" expanded="true" signature="1000:1078" ph="SELECT * FRO... usuarios_jugadores" />
+                <marker date="1483123568976" expanded="true" signature="1337:1382" ph="SELECT * FRO... usuarios_jugadores" />
+                <marker date="1483123568976" expanded="true" signature="1337:1403" ph="SELECT * FRO... usuarios_jugadores" />
+                <marker date="1483123568976" expanded="true" signature="1337:1413" ph="SELECT * FRO... usuarios_jugadores" />
+                <marker date="1483123568976" expanded="true" signature="1615:1948" ph="SELECT equip... equipos" />
+                <marker date="1483123568976" expanded="true" signature="1615:1975" ph="SELECT * FRO... usuarios_jugadores" />
               </folding>
             </state>
           </provider>
@@ -55,6 +63,9 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -75,10 +86,10 @@
     </include_path>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="x" value="3" />
+    <option name="y" value="363" />
+    <option name="width" value="1924" />
+    <option name="height" value="684" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -105,28 +116,18 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="picadito" />
+              <option name="myItemId" value="PicaditoWeb" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="picadito" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="picadito" />
-              <option name="myItemType" value="com.jetbrains.php.projectView.PhpTreeStructureProvider$1" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -144,17 +145,18 @@
       <updated>1482775265334</updated>
       <workItem from="1482775266491" duration="3431000" />
       <workItem from="1482779382414" duration="2124000" />
+      <workItem from="1483032805848" duration="5212000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5555000" />
+    <option name="totallyTimeSpent" value="10767000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="3" y="363" width="1924" height="684" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18020834" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1797694" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -194,18 +196,51 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <marker date="1482781256715" expanded="true" signature="462:507" ph="SELECT * FRO... usuarios_jugadores" />
-            <marker date="1482781256715" expanded="true" signature="462:517" ph="SELECT * FRO... usuarios_jugadores" />
-            <marker date="1482781256715" expanded="true" signature="462:521" ph="SELECT * FRO... usuarios_jugadores" />
-            <marker date="1482781256715" expanded="true" signature="462:527" ph="SELECT * FRO... usuarios_jugadores" />
-            <marker date="1482781256715" expanded="true" signature="462:528" ph="SELECT * FRO... usuarios_jugadores" />
-            <marker date="1482781256715" expanded="true" signature="462:538" ph="SELECT * FRO... usuarios_jugadores" />
-            <marker date="1482781256715" expanded="true" signature="462:540" ph="SELECT * FRO... usuarios_jugadores" />
-            <marker date="1482781256715" expanded="true" signature="787:832" ph="SELECT * FRO... usuarios_jugadores" />
-            <marker date="1482781256715" expanded="true" signature="787:853" ph="SELECT * FRO... usuarios_jugadores" />
-            <marker date="1482781256715" expanded="true" signature="787:863" ph="SELECT * FRO... usuarios_jugadores" />
-            <marker date="1482781256715" expanded="true" signature="1065:1336" ph="SELECT equip... equipos" />
-            <marker date="1482781256715" expanded="true" signature="1065:1363" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="637:746" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="637:756" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1000:1045" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1000:1055" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1000:1059" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1000:1065" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1000:1066" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1000:1076" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1000:1078" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1337:1382" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1337:1403" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1337:1413" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1615:1948" ph="SELECT equip... equipos" />
+            <marker date="1483123568976" expanded="true" signature="1615:1975" ph="SELECT * FRO... usuarios_jugadores" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/backend.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1483123568976" expanded="true" signature="637:746" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="637:756" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1000:1045" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1000:1055" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1000:1059" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1000:1065" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1000:1066" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1000:1076" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1000:1078" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1337:1382" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1337:1403" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1337:1413" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1615:1948" ph="SELECT equip... equipos" />
+            <marker date="1483123568976" expanded="true" signature="1615:1975" ph="SELECT * FRO... usuarios_jugadores" />
           </folding>
         </state>
       </provider>
@@ -228,21 +263,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/backend.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="674">
-          <caret line="60" column="4" selection-start-line="60" selection-start-column="4" selection-end-line="60" selection-end-column="4" />
+        <state relative-caret-position="170">
+          <caret line="36" column="152" selection-start-line="36" selection-start-column="152" selection-end-line="36" selection-end-column="152" />
           <folding>
-            <marker date="1482781256715" expanded="true" signature="462:507" ph="SELECT * FRO... usuarios_jugadores" />
-            <marker date="1482781256715" expanded="true" signature="462:517" ph="SELECT * FRO... usuarios_jugadores" />
-            <marker date="1482781256715" expanded="true" signature="462:521" ph="SELECT * FRO... usuarios_jugadores" />
-            <marker date="1482781256715" expanded="true" signature="462:527" ph="SELECT * FRO... usuarios_jugadores" />
-            <marker date="1482781256715" expanded="true" signature="462:528" ph="SELECT * FRO... usuarios_jugadores" />
-            <marker date="1482781256715" expanded="true" signature="462:538" ph="SELECT * FRO... usuarios_jugadores" />
-            <marker date="1482781256715" expanded="true" signature="462:540" ph="SELECT * FRO... usuarios_jugadores" />
-            <marker date="1482781256715" expanded="true" signature="787:832" ph="SELECT * FRO... usuarios_jugadores" />
-            <marker date="1482781256715" expanded="true" signature="787:853" ph="SELECT * FRO... usuarios_jugadores" />
-            <marker date="1482781256715" expanded="true" signature="787:863" ph="SELECT * FRO... usuarios_jugadores" />
-            <marker date="1482781256715" expanded="true" signature="1065:1336" ph="SELECT equip... equipos" />
-            <marker date="1482781256715" expanded="true" signature="1065:1363" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="637:746" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="637:756" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1000:1045" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1000:1055" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1000:1059" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1000:1065" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1000:1066" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1000:1076" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1000:1078" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1337:1382" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1337:1403" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1337:1413" ph="SELECT * FRO... usuarios_jugadores" />
+            <marker date="1483123568976" expanded="true" signature="1615:1948" ph="SELECT equip... equipos" />
+            <marker date="1483123568976" expanded="true" signature="1615:1975" ph="SELECT * FRO... usuarios_jugadores" />
           </folding>
         </state>
       </provider>
